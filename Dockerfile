@@ -31,7 +31,5 @@ RUN yarn install
 # build app
 RUN yarn build
 
-# EXPOSE 3000
-
 # start app
 CMD yarn start
