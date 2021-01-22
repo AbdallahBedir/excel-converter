@@ -6,8 +6,7 @@ First, make sure you have nodejs and npm installed on your machine
 Then, run the development server:
 
 ```bash
-npm run dev
-# or
+yarn install
 yarn dev
 ```
 
